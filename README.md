@@ -1,5 +1,5 @@
 ### e-house-whole
-党建之家全栈练习
+CMS练习
 
 #### 项目结构：
 #### 1.`database`: 数据库
